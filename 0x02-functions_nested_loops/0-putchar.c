@@ -1,8 +1,8 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * main - prints putchar and new line
- *
+ * Takes no argument
  * Return: Always 0
  */
 
@@ -16,7 +16,7 @@ int main(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
-	_puchar('\n');
+	_putchar('\n');
 
 	return (0);
 }
