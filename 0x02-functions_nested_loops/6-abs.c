@@ -1,6 +1,6 @@
 #include "main.h"
 
-/** 
+/**
  * _abs - compute tue absoulte valie of am integer
  * @n: the integer to be computed
  *
