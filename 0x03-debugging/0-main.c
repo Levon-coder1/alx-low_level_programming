@@ -8,8 +8,9 @@
 int main(void)
 {
 	int i;
+
 	i = 98 % 2;
 	postive_or_negative(i);
 
-	retun (0);
+	return (0);
 }
